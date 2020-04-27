@@ -4,6 +4,8 @@ Data (crawler) for Princess Connect Re:dive bilibili game wiki (https://wiki.bil
 
 ## Usage
 
+Pre-fetched data can be found in `data` directory. 
+
 Requires Python 3 environment (tested on Python 3.7).
 
 ```bash

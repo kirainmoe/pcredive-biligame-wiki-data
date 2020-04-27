@@ -10,7 +10,7 @@ from utils.formatter import get_key_name
 
 
 # 获取角色列表，返回带有角色名和稀有度的 list
-def get_roles_list():
+def get_characters_list():
     url = "https://wiki.biligame.com/pcr/%E8%A7%92%E8%89%B2%E5%9B%BE%E9%89%B4"
     response = requests.get(url)
     soup = BeautifulSoup(response.text, "lxml")
@@ -18,25 +18,25 @@ def get_roles_list():
     result = []
 
     for index, div in enumerate(rarity_div):
-        roles = div.select(".box-js")
+        characters = div.select(".box-js")
         rarity = 3 - index
-        for role in roles:
-            role_name = role.select("a")[0]["title"]
+        for character in characters:
+            character_name = character.select("a")[0]["title"]
             result.append({
-                "name": role_name,
+                "name": character_name,
                 "rarity": rarity
             })
     return result
 
 
 # 爬取角色图鉴
-def get_roles_illustration(verbose=True):
-    logger("Info", "Start download roles illustrations...", verbose)
+def get_characters_illustration(verbose=True):
+    logger("Info", "Start download characters illustrations...", verbose)
 
     url = "https://wiki.biligame.com/pcr/%E8%A7%92%E8%89%B2%E5%9B%BE%E9%89%B4"
     response = requests.get(url)
     soup = BeautifulSoup(response.text, "lxml")
-    roles_data = soup.select(".box-js")
+    characters_data = soup.select(".box-js")
     result = {}
 
     # 创建文件夹
@@ -48,26 +48,26 @@ def get_roles_illustration(verbose=True):
             logger("Error", "Create download path %s failed!" % save_path, verbose)
 
     # 下载插图
-    for index, role in enumerate(roles_data):
-        logger("Info", "Downloading illustrations %d/%d" % (index + 1, len(roles_data)), verbose)
-        role_name = role.select("a")[0]["title"]
-        role_illustration_url = role.select("img")[0]["src"]
-        illustration_save_path = os.path.join(save_path, "%s.jpg" % role_name)
-        urllib.request.urlretrieve(role_illustration_url, illustration_save_path)
-        result["role_name"] = {
-            "role_name": role_name,
-            "illustration_url": role_illustration_url,
+    for index, character in enumerate(characters_data):
+        logger("Info", "Downloading illustrations %d/%d" % (index + 1, len(characters_data)), verbose)
+        character_name = character.select("a")[0]["title"]
+        character_illustration_url = character.select("img")[0]["src"]
+        illustration_save_path = os.path.join(save_path, "%s.jpg" % character_name)
+        urllib.request.urlretrieve(character_illustration_url, illustration_save_path)
+        result["character_name"] = {
+            "character_name": character_name,
+            "illustration_url": character_illustration_url,
             "illustration_save_path": illustration_save_path
         }
 
-    logger("OK", "Roles' illustrations has been downloaded to %s!" % save_path, verbose)
+    logger("OK", "Character' illustrations has been downloaded to %s!" % save_path, verbose)
     return result
 
 
 # 爬取角色头像
-def get_roles_avatar(role_list=None, verbose=True):
-    if not role_list:
-        role_list = get_roles_list()
+def get_characters_avatar(character_list=None, verbose=True):
+    if not character_list:
+        character_list = get_characters_list()
     base_url = "https://wiki.biligame.com/pcr/"
     result = {}
 
@@ -80,27 +80,27 @@ def get_roles_avatar(role_list=None, verbose=True):
             logger("Error", "Create download path %s failed!" % save_path, verbose)
 
     # 下载头像
-    for index, role in enumerate(role_list):
-        logger("Info", "Downloading avatars %d/%d" % (index + 1, len(role_list)), verbose)
+    for index, character in enumerate(character_list):
+        logger("Info", "Downloading avatars %d/%d" % (index + 1, len(character_list)), verbose)
 
-        role_page_url = base_url + role["name"]
-        response = requests.get(role_page_url)
+        character_page_url = base_url + character["name"]
+        response = requests.get(character_page_url)
         soup = BeautifulSoup(response.text, "lxml")
         images_url = soup.select('.img-kk')[0]["src"]
-        result[role["name"]] = images_url
+        result[character["name"]] = images_url
 
-        avatar_save_path = os.path.join(save_path, "%s.jpg" % role["name"])
+        avatar_save_path = os.path.join(save_path, "%s.png" % character["name"])
         urllib.request.urlretrieve(images_url, avatar_save_path)
 
-    logger("OK", "Roles' avatar has been downloaded to %s!" % save_path, verbose)
+    logger("OK", "Character' avatar has been downloaded to %s!" % save_path, verbose)
     return result
 
 
 # 爬取角色详情，若爬取失败或角色信息不存在返回空 dict
-def get_single_role_detail(role_name=None):
-    if role_name is None:
+def get_single_character_detail(character_name=None):
+    if character_name is None:
         return {}
-    url = "https://wiki.biligame.com/pcr/%s" % role_name
+    url = "https://wiki.biligame.com/pcr/%s" % character_name
     response = requests.get(url)
     soup = BeautifulSoup(response.text, "lxml")
     tables = soup.select('#sidebar .wikitable')
@@ -197,16 +197,16 @@ def get_single_role_detail(role_name=None):
 
 
 # 获取所有角色的详情
-def get_all_role_detail(role_list=None):
-    if role_list is None:
-        role_list = get_roles_list()
-    roles_detail = {}
-    save_path = os.path.join(app_config["data_path"], "result.json")
+def get_all_character_detail(character_list=None):
+    if character_list is None:
+        character_list = get_characters_list()
+    characters_detail = {}
+    save_path = os.path.join(app_config["data_path"], "characters.json")
 
-    for role in role_list:
-        roles_detail[role["name"]] = get_single_role_detail(role["name"])
+    for character in character_list:
+        characters_detail[character["name"]] = get_single_character_detail(character["name"])
 
     with open(save_path, "w") as file:
-        file.write(json.dumps(roles_detail, indent=4, ensure_ascii=False))
+        file.write(json.dumps(characters_detail, indent=4, ensure_ascii=False))
 
-    return roles_detail
+    return characters_detail

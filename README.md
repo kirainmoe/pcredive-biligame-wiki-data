@@ -18,14 +18,14 @@ See `app.py` for further usage.
 
 ## Supported Feature
 
-- [x] Get roles' list
-- [x] Get roles' avatar
-- [x] Get roles' illustration
-- [x] Get roles' details
+- [x] Get characters' list
+- [x] Get characters' avatar
+- [x] Get characters' illustration
+- [x] Get characters' details
 - [x] Get map rewards
 
 ## License
 
 `pcredive-biligame-wiki-data` is MIT Licensed.
 
-All data were obtained from https://wiki.biligame.co
+All data were obtained from https://wiki.biligame.com

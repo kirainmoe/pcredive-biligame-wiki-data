@@ -1,4 +1,4 @@
-# Princess Connect Re:Dive - Wiki Data
+# Princess Connect Re:Dive! - Wiki Data
 
 Data (crawler) for Princess Connect Re:dive bilibili game wiki (https://wiki.biligame.com/pcr)
 
@@ -23,9 +23,12 @@ See `app.py` for further usage.
 - [x] Get characters' illustration
 - [x] Get characters' details
 - [x] Get map rewards
+- [x] Get equipments' list
+- [x] Get equipments' image
+- [x] Get equipments' detail
 
 ## License
 
 `pcredive-biligame-wiki-data` is MIT Licensed.
 
-All data were obtained from https://wiki.biligame.com
+All data were obtained from https://wiki.biligame.com/pcr , copyright belongs to the wiki editors.

@@ -1,0 +1,1016 @@
+{
+    "大贤者的宝珠": {
+        "id": 0,
+        "equipment_name": "大贤者的宝珠",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/75/8jzconjz6ezc753419njj85n65y6yk1.png/72px-104613.png",
+        "equipment_image_path": "0.png"
+    },
+    "龙之泪": {
+        "id": 1,
+        "equipment_name": "龙之泪",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/2/25/99f2kax059qmhwp7l4mv84htvc1ls5d.png/72px-104612.png",
+        "equipment_image_path": "1.png"
+    },
+    "新月的叹息": {
+        "id": 2,
+        "equipment_name": "新月的叹息",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/a/a8/fie9icszexu553jhhldt2f7jmhady1f.png/72px-104611.png",
+        "equipment_image_path": "2.png"
+    },
+    "圣信徒的项坠": {
+        "id": 3,
+        "equipment_name": "圣信徒的项坠",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/a/a5/hqb42hkpyw2rnoxwpmiy6o9z2kp3ac0.png/72px-104583.png",
+        "equipment_image_path": "3.png"
+    },
+    "月之手链": {
+        "id": 4,
+        "equipment_name": "月之手链",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/1/1c/6ghvcs2jhbmdw2jyw8an2pp5m7ufgzk.png/72px-104582.png",
+        "equipment_image_path": "4.png"
+    },
+    "替身手环": {
+        "id": 5,
+        "equipment_name": "替身手环",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/c/c1/rj9xxze3axo7b2w4fsjknw9nqe8u2jy.png/72px-104581.png",
+        "equipment_image_path": "5.png"
+    },
+    "猫神的项坠": {
+        "id": 6,
+        "equipment_name": "猫神的项坠",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/b/b0/5xq8r71gxyfjl2nmf53rdg4tnc96j2i.png/72px-104554.png",
+        "equipment_image_path": "6.png"
+    },
+    "炎帝的戒指": {
+        "id": 7,
+        "equipment_name": "炎帝的戒指",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/6/6e/ojkwtc51yrl6vqdvlcc9s7o3odczkj6.png/72px-104553.png",
+        "equipment_image_path": "7.png"
+    },
+    "太阳护身符": {
+        "id": 8,
+        "equipment_name": "太阳护身符",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/b/bb/e77zqo9amt1qt0p02bihcjf9dha6mos.png/72px-104552.png",
+        "equipment_image_path": "8.png"
+    },
+    "元素之心": {
+        "id": 9,
+        "equipment_name": "元素之心",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/f/f8/0lfvhkpi13w04zss309dl5tqpnrvemo.png/72px-104551.png",
+        "equipment_image_path": "9.png"
+    },
+    "福音之冠": {
+        "id": 10,
+        "equipment_name": "福音之冠",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/0/08/p8b18h23kg54pj8fn26dw8nhekghdml.png/72px-104523.png",
+        "equipment_image_path": "10.png"
+    },
+    "法王兜帽": {
+        "id": 11,
+        "equipment_name": "法王兜帽",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/4/4a/t3t3akirkeuckbytjhwhho56mghl6lo.png/72px-104522.png",
+        "equipment_image_path": "11.png"
+    },
+    "巫师头巾": {
+        "id": 12,
+        "equipment_name": "巫师头巾",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/9/9a/s42p1jv0i734hsmbncq4v7d1xfjdhxb.png/72px-104521.png",
+        "equipment_image_path": "12.png"
+    },
+    "羽翼头盔": {
+        "id": 13,
+        "equipment_name": "羽翼头盔",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/c/cd/5ehj6bceazi25x666bhf26qzdqac24t.png/72px-104491.png",
+        "equipment_image_path": "13.png"
+    },
+    "宝瓶之靴": {
+        "id": 14,
+        "equipment_name": "宝瓶之靴",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/4/48/c9wwla4lnw4xlokw9z45sjxwtf3yakf.png/72px-104463.png",
+        "equipment_image_path": "14.png"
+    },
+    "死灵术士之靴": {
+        "id": 15,
+        "equipment_name": "死灵术士之靴",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/a/a6/li0yrbxf5x6i7yl9f9jz03fu04g122u.png/72px-104462.png",
+        "equipment_image_path": "15.png"
+    },
+    "巫师靴": {
+        "id": 16,
+        "equipment_name": "巫师靴",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/5/56/9r4u0p50a3ffcmzr4bc4wpqr8c5sa90.png/72px-104461.png",
+        "equipment_image_path": "16.png"
+    },
+    "妖精护靴": {
+        "id": 17,
+        "equipment_name": "妖精护靴",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/e/ec/bz1txoyk7q3dqojmx50vceai7z4qpxb.png/72px-104433.png",
+        "equipment_image_path": "17.png"
+    },
+    "天使之靴": {
+        "id": 18,
+        "equipment_name": "天使之靴",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/d/dc/puq8htrwqycozcetu0h8rfd6cc7sirz.png/72px-104432.png",
+        "equipment_image_path": "18.png"
+    },
+    "圣骑士护胫甲": {
+        "id": 19,
+        "equipment_name": "圣骑士护胫甲",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/79/kkatno6anpc33srv3efjfl5kwmn45e2.png/72px-104431.png",
+        "equipment_image_path": "19.png"
+    },
+    "守护者之盾": {
+        "id": 20,
+        "equipment_name": "守护者之盾",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/1/1a/agfx67mugj2y9qqsj7g6efblrurzsd8.png/72px-104402.png",
+        "equipment_image_path": "20.png"
+    },
+    "翠绿灵衣": {
+        "id": 21,
+        "equipment_name": "翠绿灵衣",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/c/ca/g42hsbi1rgtezau5zt4sc9lcapy4n9v.png/72px-104373.png",
+        "equipment_image_path": "21.png"
+    },
+    "圣者长袍": {
+        "id": 22,
+        "equipment_name": "圣者长袍",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/0/07/3erzrlf3pa4o798fo6ih3j9a11g2cvr.png/72px-104372.png",
+        "equipment_image_path": "22.png"
+    },
+    "大魔导师长袍": {
+        "id": 23,
+        "equipment_name": "大魔导师长袍",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/9/90/q0ixpuwuw0z4ngi1o5uv3ai3dlssj9d.png/72px-104371.png",
+        "equipment_image_path": "23.png"
+    },
+    "暗黑曜袍": {
+        "id": 24,
+        "equipment_name": "暗黑曜袍",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/3/38/adzdoa83glbc320ow9iqkmwc15tyl1f.png/72px-104344.png",
+        "equipment_image_path": "24.png"
+    },
+    "苍天长袍": {
+        "id": 25,
+        "equipment_name": "苍天长袍",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/7b/1biayyhyvostxqhg4npekvcvl50gnsz.png/72px-104343.png",
+        "equipment_image_path": "25.png"
+    },
+    "隐者服饰": {
+        "id": 26,
+        "equipment_name": "隐者服饰",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/3/3e/jt81qzofk8vweipjjck0gwpx55npau4.png/72px-104342.png",
+        "equipment_image_path": "26.png"
+    },
+    "月下法衣": {
+        "id": 27,
+        "equipment_name": "月下法衣",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/1/1c/acd8zho0ciwd5gixfmbd7v3e64sge5i.png/72px-104341.png",
+        "equipment_image_path": "27.png"
+    },
+    "龙威盔甲": {
+        "id": 28,
+        "equipment_name": "龙威盔甲",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/c/ca/gdgp5txeb5tfk5a3oamgr28lnmvqlz2.png/72px-104314.png",
+        "equipment_image_path": "28.png"
+    },
+    "紫罗兰盔甲": {
+        "id": 29,
+        "equipment_name": "紫罗兰盔甲",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/c/cc/l2l4uxo44scx2ugg5s9neaz3abm58j9.png/72px-104313.png",
+        "equipment_image_path": "29.png"
+    },
+    "朱红铠甲": {
+        "id": 30,
+        "equipment_name": "朱红铠甲",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/76/nh1tser1mv530ckdoucvnosqub0b1ox.png/72px-104312.png",
+        "equipment_image_path": "30.png"
+    },
+    "天使护甲": {
+        "id": 31,
+        "equipment_name": "天使护甲",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/2/26/b8zjlg0oilt3655lrw7q1jd3a3fjep3.png/72px-104311.png",
+        "equipment_image_path": "31.png"
+    },
+    "绯红铠甲": {
+        "id": 32,
+        "equipment_name": "绯红铠甲",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/1/15/m9mq5ksfw811dsg181fsiny2qdf3fif.png/72px-104284.png",
+        "equipment_image_path": "32.png"
+    },
+    "十字军板甲": {
+        "id": 33,
+        "equipment_name": "十字军板甲",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/d/d2/poov52lyb94dul2r24nmbfovgn7hhdc.png/72px-104283.png",
+        "equipment_image_path": "33.png"
+    },
+    "秘银铠甲": {
+        "id": 34,
+        "equipment_name": "秘银铠甲",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/b/b9/hx04kcsh231ko7m05i7pobklgddbo12.png/72px-104282.png",
+        "equipment_image_path": "34.png"
+    },
+    "隐身战裙": {
+        "id": 35,
+        "equipment_name": "隐身战裙",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/d/d9/h5v3l9m4898jft0q6pudu8kfmn3c8l4.png/72px-104281.png",
+        "equipment_image_path": "35.png"
+    },
+    "不死鸟之杖": {
+        "id": 36,
+        "equipment_name": "不死鸟之杖",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/e/ee/bmjvaivcvlistomgps6uj6kw2f9rfic.png/72px-104253.png",
+        "equipment_image_path": "36.png"
+    },
+    "生命法杖": {
+        "id": 37,
+        "equipment_name": "生命法杖",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/70/dhn8dxcz6372tliz6tkgw45h12700ss.png/72px-104252.png",
+        "equipment_image_path": "37.png"
+    },
+    "月华法杖": {
+        "id": 38,
+        "equipment_name": "月华法杖",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/2/2a/mit4ep3nf6cthyy9f368v9bxypgec0c.png/72px-104251.png",
+        "equipment_image_path": "38.png"
+    },
+    "大恶魔法杖": {
+        "id": 39,
+        "equipment_name": "大恶魔法杖",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/1/16/s2if5jztbb6kqj586su5xxe3v8ydi76.png/72px-104224.png",
+        "equipment_image_path": "39.png"
+    },
+    "司法之神的锡杖": {
+        "id": 40,
+        "equipment_name": "司法之神的锡杖",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/f/fe/b3p2yqavc7j98vzk8ixhykp84k5j5cf.png/72px-104223.png",
+        "equipment_image_path": "40.png"
+    },
+    "太阳法杖": {
+        "id": 41,
+        "equipment_name": "太阳法杖",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/c/c3/l8b161age2iunx7rd9zi7nqe3spzmpe.png/72px-104222.png",
+        "equipment_image_path": "41.png"
+    },
+    "愤怒法杖": {
+        "id": 42,
+        "equipment_name": "愤怒法杖",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/9/9e/9dw4w65sxq1mdqxhp0waua6q8cv07df.png/72px-104221.png",
+        "equipment_image_path": "42.png"
+    },
+    "水晶破坏者": {
+        "id": 43,
+        "equipment_name": "水晶破坏者",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/74/dxj5d2aypps6at8lul6mfzn03akomci.png/72px-104194.png",
+        "equipment_image_path": "43.png"
+    },
+    "战女王之烈斧": {
+        "id": 44,
+        "equipment_name": "战女王之烈斧",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/8/82/lnih4er554hy9p11of6od6mdnyg0zgg.png/72px-104193.png",
+        "equipment_image_path": "44.png"
+    },
+    "地狱火之斧": {
+        "id": 45,
+        "equipment_name": "地狱火之斧",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/c/c2/d1cu6oj4h8hq582qsd9oeu5wvy9iv4u.png/72px-104192.png",
+        "equipment_image_path": "45.png"
+    },
+    "紫龙斧": {
+        "id": 46,
+        "equipment_name": "紫龙斧",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/79/drkxise8w0w2b71qcl7yjnizh5pju1z.png/72px-104191.png",
+        "equipment_image_path": "46.png"
+    },
+    "盖亚战斧": {
+        "id": 47,
+        "equipment_name": "盖亚战斧",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/a/a4/6jekt5rtckf3rva7xlpbqwvkyse3rbw.png/72px-104164.png",
+        "equipment_image_path": "47.png"
+    },
+    "暴风权杖": {
+        "id": 48,
+        "equipment_name": "暴风权杖",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/5/56/1vahe3f59lmvgx649rnspv8mbffx410.png/72px-104163.png",
+        "equipment_image_path": "48.png"
+    },
+    "女王之矛": {
+        "id": 49,
+        "equipment_name": "女王之矛",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/0/06/kdvwbrlie6hzlqsqug55nvxs27j9t2b.png/72px-104162.png",
+        "equipment_image_path": "49.png"
+    },
+    "绯龙矛": {
+        "id": 50,
+        "equipment_name": "绯龙矛",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/d/de/se4a67l3kjgpyuys86uoth003rizw8c.png/72px-104161.png",
+        "equipment_image_path": "50.png"
+    },
+    "精灵树之弓": {
+        "id": 51,
+        "equipment_name": "精灵树之弓",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/b/b9/7ywlfqm8by34ykzybt0xm6twrzyigj1.png/72px-104134.png",
+        "equipment_image_path": "51.png"
+    },
+    "月亮女神之弓": {
+        "id": 52,
+        "equipment_name": "月亮女神之弓",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/b/b6/do7jvqm0g0xy6l0zzjqiq0qy0js0l57.png/72px-104133.png",
+        "equipment_image_path": "52.png"
+    },
+    "天使弓": {
+        "id": 53,
+        "equipment_name": "天使弓",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/4/4a/7roxjz11shk7v0hkeg3ezavvpqu8zk4.png/72px-104132.png",
+        "equipment_image_path": "53.png"
+    },
+    "雷光弓": {
+        "id": 54,
+        "equipment_name": "雷光弓",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/7b/09dl2fphe21uo00cj6as2s8mdgneiq9.png/72px-104131.png",
+        "equipment_image_path": "54.png"
+    },
+    "苍雷拳": {
+        "id": 55,
+        "equipment_name": "苍雷拳",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/0/0b/1w4q2kkvsy4jmt3vz8orzdmn67x0j93.png/72px-104104.png",
+        "equipment_image_path": "55.png"
+    },
+    "暴雪之爪": {
+        "id": 56,
+        "equipment_name": "暴雪之爪",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/1/1d/s2sg2cp014k73golky0ufwe6wsk3pu0.png/72px-104103.png",
+        "equipment_image_path": "56.png"
+    },
+    "狮子王的护臂": {
+        "id": 57,
+        "equipment_name": "狮子王的护臂",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/b/b7/f66clscxcltutrckbf999w1mvrwwv5x.png/72px-104102.png",
+        "equipment_image_path": "57.png"
+    },
+    "火焰护臂": {
+        "id": 58,
+        "equipment_name": "火焰护臂",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/c/cf/1rj0l9vuygb0f38kil7r345w4i6trys.png/72px-104101.png",
+        "equipment_image_path": "58.png"
+    },
+    "独角兽匕首": {
+        "id": 59,
+        "equipment_name": "独角兽匕首",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/2/2d/qp03m04i56aeb4o1z1zm83ixskjbess.png/72px-104074.png",
+        "equipment_image_path": "59.png"
+    },
+    "暗黑物质短剑": {
+        "id": 60,
+        "equipment_name": "暗黑物质短剑",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/4/48/6cxuv5onh9yhoufpc0j4e0vreing6dz.png/72px-104073.png",
+        "equipment_image_path": "60.png"
+    },
+    "公主短剑": {
+        "id": 61,
+        "equipment_name": "公主短剑",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/c/c9/ikmiiauva3v84qo4rq6aupta5mvflg1.png/72px-104072.png",
+        "equipment_image_path": "61.png"
+    },
+    "珍贵匕首": {
+        "id": 62,
+        "equipment_name": "珍贵匕首",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/1/16/rx7qaxa6l022sejzwejy1kzaq136ltg.png/72px-104071.png",
+        "equipment_image_path": "62.png"
+    },
+    "凤凰刀": {
+        "id": 63,
+        "equipment_name": "凤凰刀",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/4/4d/at1opqn4awt1h4szs7l464j52kvuz8m.png/72px-104044.png",
+        "equipment_image_path": "63.png"
+    },
+    "鹰神之煌剑": {
+        "id": 64,
+        "equipment_name": "鹰神之煌剑",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/4/4c/2p0rcrpu3hs4eb2ydqeatnal5r07y86.png/72px-104043.png",
+        "equipment_image_path": "64.png"
+    },
+    "光辉剑": {
+        "id": 65,
+        "equipment_name": "光辉剑",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/6/6f/n4r7p5o1v3fz4kcv53bge4icf2xlbee.png/72px-104042.png",
+        "equipment_image_path": "65.png"
+    },
+    "妖蝶之刀": {
+        "id": 66,
+        "equipment_name": "妖蝶之刀",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/6/68/9dhab8gibba25b11zeopq2qgbigvtwy.png/72px-104041.png",
+        "equipment_image_path": "66.png"
+    },
+    "混沌之剑": {
+        "id": 67,
+        "equipment_name": "混沌之剑",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/e/eb/fsjynwiwsyhtcq16jakcenrzgjmgd1j.png/72px-104014.png",
+        "equipment_image_path": "67.png"
+    },
+    "冰之大剑": {
+        "id": 68,
+        "equipment_name": "冰之大剑",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/2/23/4vxh07sa1apefhnulnw02ss4cepn0dj.png/72px-104013.png",
+        "equipment_image_path": "68.png"
+    },
+    "太阳剑": {
+        "id": 69,
+        "equipment_name": "太阳剑",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/0/0b/rohwscida5g0m9tjcur8k1i9633nfd7.png/72px-104012.png",
+        "equipment_image_path": "69.png"
+    },
+    "天使剑": {
+        "id": 70,
+        "equipment_name": "天使剑",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/6/6d/d3w4qsqzwas6uz9l2sv2rj9takbjvbi.png/72px-104011.png",
+        "equipment_image_path": "70.png"
+    },
+    "月桂树的哀伤": {
+        "id": 71,
+        "equipment_name": "月桂树的哀伤",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/b/b0/9uplhcovdkjuumvt4qhhdjiztxz34yj.png/72px-103614.png",
+        "equipment_image_path": "71.png"
+    },
+    "魔法使眼镜": {
+        "id": 72,
+        "equipment_name": "魔法使眼镜",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/3/37/ni39inpcldoq3ikr3124cznln3gu045.png/72px-103613.png",
+        "equipment_image_path": "72.png"
+    },
+    "珍珠耳环": {
+        "id": 73,
+        "equipment_name": "珍珠耳环",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/5/55/l1eb4lcjexmfr2zbfvo8n9souba1p2r.png/72px-103612.png",
+        "equipment_image_path": "73.png"
+    },
+    "绿松石耳环": {
+        "id": 74,
+        "equipment_name": "绿松石耳环",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/2/21/pegs7kdo3xni8uppcpiol124cairqxz.png/72px-103611.png",
+        "equipment_image_path": "74.png"
+    },
+    "狮子王的守护": {
+        "id": 75,
+        "equipment_name": "狮子王的守护",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/d/d7/lwjf9dj3v1bb7mownz2bwd68ugpcrwc.png/72px-103583.png",
+        "equipment_image_path": "75.png"
+    },
+    "八芒星坠饰": {
+        "id": 76,
+        "equipment_name": "八芒星坠饰",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/e/eb/8ukclbrxfer4cnqxjber7z5q5oiinep.png/72px-103582.png",
+        "equipment_image_path": "76.png"
+    },
+    "绿宝石耳环": {
+        "id": 77,
+        "equipment_name": "绿宝石耳环",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/1/13/gcbszfcarwwg3jlctugel7lk48sul8w.png/72px-103581.png",
+        "equipment_image_path": "77.png"
+    },
+    "绯红钻石": {
+        "id": 78,
+        "equipment_name": "绯红钻石",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/7d/osobwfh5dp21dlhdmmrzm4631xenth1.png/72px-103553.png",
+        "equipment_image_path": "78.png"
+    },
+    "狮鹫之羽饰": {
+        "id": 79,
+        "equipment_name": "狮鹫之羽饰",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/b/be/dnwp1g9wdznkwax2r1k7ak6iw4iuve0.png/72px-103552.png",
+        "equipment_image_path": "79.png"
+    },
+    "蛋白石耳环": {
+        "id": 80,
+        "equipment_name": "蛋白石耳环",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/78/1trgabg95gjsycy09jn2a0aumvyqv99.png/72px-103551.png",
+        "equipment_image_path": "80.png"
+    },
+    "女巫帽": {
+        "id": 81,
+        "equipment_name": "女巫帽",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/1/16/ejv0in6kxyy72xlng9er7jxoh6y5524.png/72px-103522.png",
+        "equipment_image_path": "81.png"
+    },
+    "女巫发箍": {
+        "id": 82,
+        "equipment_name": "女巫发箍",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/c/cf/p3ix88j42hzveo826vw1tfy4r90hwkk.png/72px-103521.png",
+        "equipment_image_path": "82.png"
+    },
+    "黑龙头盔": {
+        "id": 83,
+        "equipment_name": "黑龙头盔",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/8/8a/jkyb7e36xt30u6tigvo5s1482mestc3.png/72px-103491.png",
+        "equipment_image_path": "83.png"
+    },
+    "女巫宫廷靴": {
+        "id": 84,
+        "equipment_name": "女巫宫廷靴",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/1/1d/q02p54qbehhy1yuxwfex2qgioxwusrl.png/72px-103461.png",
+        "equipment_image_path": "84.png"
+    },
+    "击剑之靴": {
+        "id": 85,
+        "equipment_name": "击剑之靴",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/a/ad/n62v0tn2flzfgbs1ykfvn0okxnrvypg.png/72px-103432.png",
+        "equipment_image_path": "85.png"
+    },
+    "忍者鞋": {
+        "id": 86,
+        "equipment_name": "忍者鞋",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/4/49/i2zszl0cofhugbhmo05id95e7p54773.png/72px-103431.png",
+        "equipment_image_path": "86.png"
+    },
+    "石榴石之盾": {
+        "id": 87,
+        "equipment_name": "石榴石之盾",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/7b/gfn8n22ugwxrpyb7t70go8x1nioxi3z.png/72px-103401.png",
+        "equipment_image_path": "87.png"
+    },
+    "哲学家长袍": {
+        "id": 88,
+        "equipment_name": "哲学家长袍",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/5/5d/p5l5jd6900cs7794nsufkxmr8kqudid.png/72px-103372.png",
+        "equipment_image_path": "88.png"
+    },
+    "丘比特长袍": {
+        "id": 89,
+        "equipment_name": "丘比特长袍",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/5/58/oz7pzq45zp2mf7ty7ffjmn9f2jmm8tf.png/72px-103371.png",
+        "equipment_image_path": "89.png"
+    },
+    "秩序法衣": {
+        "id": 90,
+        "equipment_name": "秩序法衣",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/8/8e/ikzopesogor57gvnt0e65d8hsss0ujd.png/72px-103343.png",
+        "equipment_image_path": "90.png"
+    },
+    "宫廷服饰": {
+        "id": 91,
+        "equipment_name": "宫廷服饰",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/f/f2/7syb727e342j54gldwqu9s2otljumy1.png/72px-103342.png",
+        "equipment_image_path": "91.png"
+    },
+    "千层服": {
+        "id": 92,
+        "equipment_name": "千层服",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/b/b2/ss4reitdpnfvxxb7mxcp0cq724ey38q.png/72px-103341.png",
+        "equipment_image_path": "92.png"
+    },
+    "华丽盔甲": {
+        "id": 93,
+        "equipment_name": "华丽盔甲",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/9/97/183s37jbs1sdtf2e2d2jdkry3ae8a0u.png/72px-103311.png",
+        "equipment_image_path": "93.png"
+    },
+    "重金属护甲": {
+        "id": 94,
+        "equipment_name": "重金属护甲",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/e/e3/ikafh9gmqsbp4adcj7knxbiqplle7ec.png/72px-103283.png",
+        "equipment_image_path": "94.png"
+    },
+    "战阵铠衣": {
+        "id": 95,
+        "equipment_name": "战阵铠衣",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/8/84/h3xwdc6d7a5ql0htqnto2oe17428pa0.png/72px-103282.png",
+        "equipment_image_path": "95.png"
+    },
+    "时尚盔甲": {
+        "id": 96,
+        "equipment_name": "时尚盔甲",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/f/fa/l8w0c5i01ejdsuknaor86k5zceq438x.png/72px-103281.png",
+        "equipment_image_path": "96.png"
+    },
+    "花蕾之杖": {
+        "id": 97,
+        "equipment_name": "花蕾之杖",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/a/ac/ohv5cf07kdkw4ydys7zpq4u4hvp4mhx.png/72px-103252.png",
+        "equipment_image_path": "97.png"
+    },
+    "天球护身法杖": {
+        "id": 98,
+        "equipment_name": "天球护身法杖",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/f/fa/p0olvv489s622u3emuw7au3p3g9ln73.png/72px-103251.png",
+        "equipment_image_path": "98.png"
+    },
+    "恶魔之角": {
+        "id": 99,
+        "equipment_name": "恶魔之角",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/7d/9gzxc0t0t5ur6vdekzl4wt4utlkxyjj.png/72px-103222.png",
+        "equipment_image_path": "99.png"
+    },
+    "赤血法杖": {
+        "id": 100,
+        "equipment_name": "赤血法杖",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/3/31/68wq37nywx60z4cxp4oyg0cbsf0qax4.png/72px-103221.png",
+        "equipment_image_path": "100.png"
+    },
+    "闪电之斧": {
+        "id": 101,
+        "equipment_name": "闪电之斧",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/9/93/fhvru8jfe6ceqv82ryn5tttcbvkk456.png/72px-103193.png",
+        "equipment_image_path": "101.png"
+    },
+    "丽花战斧": {
+        "id": 102,
+        "equipment_name": "丽花战斧",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/9/9c/nr757hvv3cgc53w4mh8yvve70og5vge.png/72px-103192.png",
+        "equipment_image_path": "102.png"
+    },
+    "天球斧": {
+        "id": 103,
+        "equipment_name": "天球斧",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/7c/94uv7n21gpqy78gt40n05f1525yxq4n.png/72px-103191.png",
+        "equipment_image_path": "103.png"
+    },
+    "绝对之矛": {
+        "id": 104,
+        "equipment_name": "绝对之矛",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/c/cd/kaqeawc5e9aq7gvgxjhp7179mmq50oy.png/72px-103162.png",
+        "equipment_image_path": "104.png"
+    },
+    "骑士的骄傲": {
+        "id": 105,
+        "equipment_name": "骑士的骄傲",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/c/c5/o96a1a3xkezfqsyi97qm9eo5z2l4qoq.png/72px-103161.png",
+        "equipment_image_path": "105.png"
+    },
+    "恶魔之弓": {
+        "id": 106,
+        "equipment_name": "恶魔之弓",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/4/46/1uxgs2o1jyfl1h6ioiseb5iy71rhhep.png/72px-103132.png",
+        "equipment_image_path": "106.png"
+    },
+    "丘比特之弓": {
+        "id": 107,
+        "equipment_name": "丘比特之弓",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/1/1a/ljzqju3hfnrynvr6rxwgcthl70ys32f.png/72px-103131.png",
+        "equipment_image_path": "107.png"
+    },
+    "龙牙之爪": {
+        "id": 108,
+        "equipment_name": "龙牙之爪",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/5/5b/9dft5dwxipfr1psx9vosnifae5495xk.png/72px-103101.png",
+        "equipment_image_path": "108.png"
+    },
+    "吸血鬼匕首": {
+        "id": 109,
+        "equipment_name": "吸血鬼匕首",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/7a/4o9412jjh8del4ikuxxat1kogoc7clb.png/72px-103072.png",
+        "equipment_image_path": "109.png"
+    },
+    "铂金小刀": {
+        "id": 110,
+        "equipment_name": "铂金小刀",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/8/81/2hmr3zp6khy4fxa65fphbsuxnl7ke3n.png/72px-103071.png",
+        "equipment_image_path": "110.png"
+    },
+    "雷神刀": {
+        "id": 111,
+        "equipment_name": "雷神刀",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/3/3f/g6gwxczh1xyr8ahwquhivloouwongj2.png/72px-103042.png",
+        "equipment_image_path": "111.png"
+    },
+    "月光刀": {
+        "id": 112,
+        "equipment_name": "月光刀",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/0/09/j5amlkx7957lihxchhrjgbp81drfxli.png/72px-103041.png",
+        "equipment_image_path": "112.png"
+    },
+    "羽刃之剑": {
+        "id": 113,
+        "equipment_name": "羽刃之剑",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/2/2a/5yy18p4pk3uf188gp7v8g8u9ko9vb5w.png/72px-103013.png",
+        "equipment_image_path": "113.png"
+    },
+    "龙纹剑": {
+        "id": 114,
+        "equipment_name": "龙纹剑",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/f/fc/rrad99a2xumls7idkti0azkbol52dtz.png/72px-103012.png",
+        "equipment_image_path": "114.png"
+    },
+    "闪耀之剑": {
+        "id": 115,
+        "equipment_name": "闪耀之剑",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/f/fe/nc946o7v7t6fgsljqdj2no8doh4kz34.png/72px-103011.png",
+        "equipment_image_path": "115.png"
+    },
+    "圆纹手镯": {
+        "id": 116,
+        "equipment_name": "圆纹手镯",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/3/31/lxc94hmm9cc50ysgaovkc9f9winciwy.png/72px-102614.png",
+        "equipment_image_path": "116.png"
+    },
+    "魔法单眼镜": {
+        "id": 117,
+        "equipment_name": "魔法单眼镜",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/71/ci8a6kaw2qaxkcnrn4qda1sximdcy2t.png/72px-102613.png",
+        "equipment_image_path": "117.png"
+    },
+    "智慧宝珠": {
+        "id": 118,
+        "equipment_name": "智慧宝珠",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/c/c8/0p5hua6zy55e0suw8a81gy94i3taog5.png/72px-102612.png",
+        "equipment_image_path": "118.png"
+    },
+    "魔法眼镜": {
+        "id": 119,
+        "equipment_name": "魔法眼镜",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/4/46/8eop8v42iwi4afoqofnje9y3q1m8wwr.png/72px-102611.png",
+        "equipment_image_path": "119.png"
+    },
+    "胜利的编织手镯": {
+        "id": 120,
+        "equipment_name": "胜利的编织手镯",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/7a/ajiy0d7vmm75u2m96gjekag2wa8vb0o.png/72px-102582.png",
+        "equipment_image_path": "120.png"
+    },
+    "仁爱宝珠": {
+        "id": 121,
+        "equipment_name": "仁爱宝珠",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/2/27/3qw5cctvhn9hvkjntcmpag52lxqaxxu.png/72px-102581.png",
+        "equipment_image_path": "121.png"
+    },
+    "尖刺手镯": {
+        "id": 122,
+        "equipment_name": "尖刺手镯",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/74/pdlekxf26zljpis8gf95pu43tfeewe4.png/72px-102552.png",
+        "equipment_image_path": "122.png"
+    },
+    "勇气宝珠": {
+        "id": 123,
+        "equipment_name": "勇气宝珠",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/c/c5/obt6jg2bl7y7lbl0x0wuk9my4fti13w.png/72px-102551.png",
+        "equipment_image_path": "123.png"
+    },
+    "修女兜帽": {
+        "id": 124,
+        "equipment_name": "修女兜帽",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/4/46/goie1fjenba4s3op7bo4opei18ed9pb.png/72px-102521.png",
+        "equipment_image_path": "124.png"
+    },
+    "罗马军团盔": {
+        "id": 125,
+        "equipment_name": "罗马军团盔",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/2/20/3l7t77tujykto6tcknd0td0l3m3ccwi.png/72px-102493.png",
+        "equipment_image_path": "125.png"
+    },
+    "可爱报童帽": {
+        "id": 126,
+        "equipment_name": "可爱报童帽",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/e/ef/epns9gt2s0zxm2rnofrhzhtgqf7yx2j.png/72px-102491.png",
+        "equipment_image_path": "126.png"
+    },
+    "女巫靴": {
+        "id": 127,
+        "equipment_name": "女巫靴",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/7f/77mh5lkc4xq871xjq8lnyj2unq9kcyz.png/72px-102461.png",
+        "equipment_image_path": "127.png"
+    },
+    "狩猎靴": {
+        "id": 128,
+        "equipment_name": "狩猎靴",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/1/13/djwfya1ecjtm2024kus3vcrbn4obftk.png/72px-102432.png",
+        "equipment_image_path": "128.png"
+    },
+    "小丑靴": {
+        "id": 129,
+        "equipment_name": "小丑靴",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/5/5f/ktk85ej5bo17eo2hh41vqfinuvgksb1.png/72px-102431.png",
+        "equipment_image_path": "129.png"
+    },
+    "塔盾": {
+        "id": 130,
+        "equipment_name": "塔盾",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/b/b1/85jhg3v1waz1u08b5u5dvtftqkqhw6i.png/72px-102401.png",
+        "equipment_image_path": "130.png"
+    },
+    "北国长袍": {
+        "id": 131,
+        "equipment_name": "北国长袍",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/b/b9/1qgwhj2ns2c37ecsr9ubpd7j6u3i41c.png/72px-102372.png",
+        "equipment_image_path": "131.png"
+    },
+    "春日长袍": {
+        "id": 132,
+        "equipment_name": "春日长袍",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/c/c4/5jkqkf7zcx8hq0ij8kpsoromq00pair.png/72px-102371.png",
+        "equipment_image_path": "132.png"
+    },
+    "忍者装扮": {
+        "id": 133,
+        "equipment_name": "忍者装扮",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/b/b6/9b6jhuw7f15f8gu818hs8gwgvo0hfn9.png/72px-102342.png",
+        "equipment_image_path": "133.png"
+    },
+    "民俗服饰": {
+        "id": 134,
+        "equipment_name": "民俗服饰",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/e/e5/s127osnlbddxb4wd3hu4mjio4h8ikxt.png/72px-102341.png",
+        "equipment_image_path": "134.png"
+    },
+    "精钢铠甲": {
+        "id": 135,
+        "equipment_name": "精钢铠甲",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/5/53/k0bzd1gzlr7ikyaa9fjae26atf8m3sq.png/72px-102312.png",
+        "equipment_image_path": "135.png"
+    },
+    "鳞甲": {
+        "id": 136,
+        "equipment_name": "鳞甲",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/2/2f/kncai5xgi6kuq1k6ojg2jnbe8l0kqpy.png/72px-102311.png",
+        "equipment_image_path": "136.png"
+    },
+    "轻板甲": {
+        "id": 137,
+        "equipment_name": "轻板甲",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/f/f6/k5khnk82q7pq9nyd1tvr1lmcbqxl36t.png/72px-102282.png",
+        "equipment_image_path": "137.png"
+    },
+    "智慧之服": {
+        "id": 138,
+        "equipment_name": "智慧之服",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/8/8e/hikfp1vz1sot4ff9roh7g0b6emd7dhi.png/72px-102281.png",
+        "equipment_image_path": "138.png"
+    },
+    "独角兽的慈爱": {
+        "id": 139,
+        "equipment_name": "独角兽的慈爱",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/2/2e/bdj6s93pnfhpxqgxx2qk2oaut4verub.png/72px-102252.png",
+        "equipment_image_path": "139.png"
+    },
+    "恢复之杖": {
+        "id": 140,
+        "equipment_name": "恢复之杖",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/1/1a/dp1s93peiv63j3m3w5jic8m5hhrzjcv.png/72px-102251.png",
+        "equipment_image_path": "140.png"
+    },
+    "雏龙之杖": {
+        "id": 141,
+        "equipment_name": "雏龙之杖",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/7d/h5z6qvflav08iryrrab343066ng13lf.png/72px-102222.png",
+        "equipment_image_path": "141.png"
+    },
+    "绿意之杖": {
+        "id": 142,
+        "equipment_name": "绿意之杖",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/6/60/sxiu8rbqgrwitcxp8mcssdp65gzpw1o.png/72px-102221.png",
+        "equipment_image_path": "142.png"
+    },
+    "高级金属斧": {
+        "id": 143,
+        "equipment_name": "高级金属斧",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/e/e9/9iw234dolzzwnn3dnpcykyw3nirwukz.png/72px-102192.png",
+        "equipment_image_path": "143.png"
+    },
+    "金属斧": {
+        "id": 144,
+        "equipment_name": "金属斧",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/e/e3/eyy0xg8cz1czwdvy1yaeig8tq5i97k9.png/72px-102191.png",
+        "equipment_image_path": "144.png"
+    },
+    "火焰枪": {
+        "id": 145,
+        "equipment_name": "火焰枪",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/71/fyuay0pazwquprap2bb3jax99fm1mwe.png/72px-102163.png",
+        "equipment_image_path": "145.png"
+    },
+    "三叉戟": {
+        "id": 146,
+        "equipment_name": "三叉戟",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/c/c1/fm3idwi32zm2725od53ncrzqe9vfva0.png/72px-102162.png",
+        "equipment_image_path": "146.png"
+    },
+    "水晶弓": {
+        "id": 147,
+        "equipment_name": "水晶弓",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/3/35/9u5j9nakah3jf9dqenuvhdrtzet833n.png/72px-102131.png",
+        "equipment_image_path": "147.png"
+    },
+    "皮革手套": {
+        "id": 148,
+        "equipment_name": "皮革手套",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/2/24/bn063rtrj1unuorm7wzw71suow3wisv.png/72px-102101.png",
+        "equipment_image_path": "148.png"
+    },
+    "指挥匕首": {
+        "id": 149,
+        "equipment_name": "指挥匕首",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/b/b3/c1wk8itiuvjuw7n3js65nf4859emyas.png/72px-102071.png",
+        "equipment_image_path": "149.png"
+    },
+    "月牙刀": {
+        "id": 150,
+        "equipment_name": "月牙刀",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/5/54/84rm19dm08i17p4zy5ayr45bqst8w50.png/72px-102041.png",
+        "equipment_image_path": "150.png"
+    },
+    "极光剑": {
+        "id": 151,
+        "equipment_name": "极光剑",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/7/78/8jz8ikspwxc0sbabcsex93n9030lcwo.png/72px-102014.png",
+        "equipment_image_path": "151.png"
+    },
+    "蓝血剑": {
+        "id": 152,
+        "equipment_name": "蓝血剑",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/e/e3/eydzmgg1ttukcay0f7hj74b35b6o4wo.png/72px-102013.png",
+        "equipment_image_path": "152.png"
+    },
+    "齿轮剑": {
+        "id": 153,
+        "equipment_name": "齿轮剑",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/4/49/ozlijpzoi8qadpg28gj0ibzw1bm7q89.png/72px-102011.png",
+        "equipment_image_path": "153.png"
+    },
+    "助威手镯": {
+        "id": 154,
+        "equipment_name": "助威手镯",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/6/63/cdt3s950ndkrv5ddi6qf49hr7cg0k8c.png/72px-101611.png",
+        "equipment_image_path": "154.png"
+    },
+    "守护项链": {
+        "id": 155,
+        "equipment_name": "守护项链",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/6/61/0pp1j0pnjufszaphz5oqju2drq14s1g.png/72px-101581.png",
+        "equipment_image_path": "155.png"
+    },
+    "活力手镯": {
+        "id": 156,
+        "equipment_name": "活力手镯",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/a/af/5644qhyshfxbgp81yv8ubu99d3b8ahc.png/72px-101551.png",
+        "equipment_image_path": "156.png"
+    },
+    "时尚贝雷帽": {
+        "id": 157,
+        "equipment_name": "时尚贝雷帽",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/2/22/iupydurw4jss88gs1f9qcxcgi7b0btg.png/72px-101521.png",
+        "equipment_image_path": "157.png"
+    },
+    "皮革鞋": {
+        "id": 158,
+        "equipment_name": "皮革鞋",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/6/6d/ryvux2b7ansdf6iau8afgu4l7a0jzt2.png/72px-101431.png",
+        "equipment_image_path": "158.png"
+    },
+    "木盾": {
+        "id": 159,
+        "equipment_name": "木盾",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/2/20/epe3r59tcctgiwdmthuo4bceznc2tp5.png/72px-101401.png",
+        "equipment_image_path": "159.png"
+    },
+    "旅行长袍": {
+        "id": 160,
+        "equipment_name": "旅行长袍",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/4/47/0qcne2kim3j768twn0krc7x5dxbjwyx.png/72px-101371.png",
+        "equipment_image_path": "160.png"
+    },
+    "皮革工作服": {
+        "id": 161,
+        "equipment_name": "皮革工作服",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/2/2c/s7sb2434loe64ckdluz8y1owq1csgj7.png/72px-101281.png",
+        "equipment_image_path": "161.png"
+    },
+    "香木法杖": {
+        "id": 162,
+        "equipment_name": "香木法杖",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/c/c4/o5nl5kqu1axrt1ej8r9ff8abefaeswp.png/72px-101251.png",
+        "equipment_image_path": "162.png"
+    },
+    "单手斧": {
+        "id": 163,
+        "equipment_name": "单手斧",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/a/a2/9ndirqoln8v22obm8qh08jv4jid8n3q.png/72px-101191.png",
+        "equipment_image_path": "163.png"
+    },
+    "钢矛": {
+        "id": 164,
+        "equipment_name": "钢矛",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/3/3c/1h4x4q49yzsr3u4g92fqby8b1rn1o0j.png/72px-101161.png",
+        "equipment_image_path": "164.png"
+    },
+    "猎人弓": {
+        "id": 165,
+        "equipment_name": "猎人弓",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/3/3c/s1f8rlpkuzuk15wlwaf20ldyz1vydpf.png/72px-101131.png",
+        "equipment_image_path": "165.png"
+    },
+    "木制拳套": {
+        "id": 166,
+        "equipment_name": "木制拳套",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/8/8d/kxvmlwptlrbilphu1t4j9ompxmr2am8.png/72px-101101.png",
+        "equipment_image_path": "166.png"
+    },
+    "杀手铅笔": {
+        "id": 167,
+        "equipment_name": "杀手铅笔",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/a/a9/g7j3kum6msm5dnvksuxdop2ei3t2u9y.png/72px-101071.png",
+        "equipment_image_path": "167.png"
+    },
+    "铁剑": {
+        "id": 168,
+        "equipment_name": "铁剑",
+        "equipment_image_url": "https://patchwiki.biligame.com/images/pcr/thumb/a/a7/1ovmokbt2phsjbampss5izy4gmekyid.png/72px-101011.png",
+        "equipment_image_path": "168.png"
+    }
+}

@@ -1,0 +1,260 @@
+{
+    "柊杏奈": {
+        "id": 0,
+        "character_name": "柊杏奈",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/0/00/siy95819gwhndxni9s40kib38jmnsgk.jpg",
+        "illustration_path": "0.jpg"
+    },
+    "姬宫真步": {
+        "id": 1,
+        "character_name": "姬宫真步",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/9/96/jtf6kvo9lpdxn76xoev7mz4htmq8u1x.jpg",
+        "illustration_path": "1.jpg"
+    },
+    "衣之咲璃乃": {
+        "id": 2,
+        "character_name": "衣之咲璃乃",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/9/9e/ppz9jgms77bbyrlzhdsq8rlylj2zxab.jpg",
+        "illustration_path": "2.jpg"
+    },
+    "柏崎初音": {
+        "id": 3,
+        "character_name": "柏崎初音",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/4/40/hzjf2lbzuhf1885pfod2l0caee1g8mt.jpg",
+        "illustration_path": "3.jpg"
+    },
+    "支仓伊绪": {
+        "id": 4,
+        "character_name": "支仓伊绪",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/2/25/d4g8bu9t2mg2racl9beu8ddak0hihbe.jpg",
+        "illustration_path": "4.jpg"
+    },
+    "佐佐木咲恋": {
+        "id": 5,
+        "character_name": "佐佐木咲恋",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/0/09/60pdxqbucvtzu16rf1u0zujt3lav5q1.jpg",
+        "illustration_path": "5.jpg"
+    },
+    "樱井望": {
+        "id": 6,
+        "character_name": "樱井望",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/6/69/hfm9p2n9e6vwfo6cdufntd6lxwbcqdq.jpg",
+        "illustration_path": "6.jpg"
+    },
+    "妮侬・朱贝尔": {
+        "id": 7,
+        "character_name": "妮侬・朱贝尔",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/5/52/8vbw9xt01bf4og1vco4oplj290w21o2.jpg",
+        "illustration_path": "7.jpg"
+    },
+    "藤堂秋乃": {
+        "id": 8,
+        "character_name": "藤堂秋乃",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/5/5a/j6x4n4q1ah3qswtp6yvziy5gstbmw1a.jpg",
+        "illustration_path": "8.jpg"
+    },
+    "安芸真琴": {
+        "id": 9,
+        "character_name": "安芸真琴",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/4/48/06s0rxxo2nqtjatn58u1w1skmragiqe.jpg",
+        "illustration_path": "9.jpg"
+    },
+    "白银纯": {
+        "id": 10,
+        "character_name": "白银纯",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/2/2a/8dwpn9hlcwl55hn9gdjickk56wr20lv.jpg",
+        "illustration_path": "10.jpg"
+    },
+    "星野静流": {
+        "id": 11,
+        "character_name": "星野静流",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/2/21/5pqmirdgfga9kxj8vhoy7zwtw7clqba.jpg",
+        "illustration_path": "11.jpg"
+    },
+    "莫妮卡·拜斯温特": {
+        "id": 12,
+        "character_name": "莫妮卡·拜斯温特",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/b/b0/b3kkyhb81xzdxvn6y6ssawjf889kocj.jpg",
+        "illustration_path": "12.jpg"
+    },
+    "姬塔": {
+        "id": 13,
+        "character_name": "姬塔",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/e/e4/7gbjh921ebxw1vz2sccrvcp2g1cmavi.jpg",
+        "illustration_path": "13.jpg"
+    },
+    "风宫茜里": {
+        "id": 14,
+        "character_name": "风宫茜里",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/8/86/0eqmdr6kdbqme9fvlhrc5eruabuhu7n.jpg",
+        "illustration_path": "14.jpg"
+    },
+    "出云宫子": {
+        "id": 15,
+        "character_name": "出云宫子",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/a/a0/rhgdyqtj8xqbtjgvd0c0rga0tstcyxl.jpg",
+        "illustration_path": "15.jpg"
+    },
+    "虹村雪": {
+        "id": 16,
+        "character_name": "虹村雪",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/e/eb/4m69czm6mkuiz1f2sbklpmmv7wzpgbl.jpg",
+        "illustration_path": "16.jpg"
+    },
+    "美波铃奈": {
+        "id": 17,
+        "character_name": "美波铃奈",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/b/b4/tuhoql5xoz6zeq87705u5oq6zg6m7jg.jpg",
+        "illustration_path": "17.jpg"
+    },
+    "喜屋武香织": {
+        "id": 18,
+        "character_name": "喜屋武香织",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/4/46/50wherp5hf8cg7hvl39vy12sleiq0gi.jpg",
+        "illustration_path": "18.jpg"
+    },
+    "茜美美": {
+        "id": 19,
+        "character_name": "茜美美",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/5/5b/h4ysgapeoe4gkx1jd18kqmkxshg6vsb.jpg",
+        "illustration_path": "19.jpg"
+    },
+    "仓石惠理子": {
+        "id": 20,
+        "character_name": "仓石惠理子",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/9/90/me2vgi1u74kpc65aeeazkf7ddjajat9.jpg",
+        "illustration_path": "20.jpg"
+    },
+    "上喜忍": {
+        "id": 21,
+        "character_name": "上喜忍",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/e/e5/bo6lpz0q8ccsgq1q8njpyr4tikrox1w.jpg",
+        "illustration_path": "21.jpg"
+    },
+    "野户真阳": {
+        "id": 22,
+        "character_name": "野户真阳",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/5/52/8p6yetcfy16hiy4p10o5zf890o3c92b.jpg",
+        "illustration_path": "22.jpg"
+    },
+    "柏崎栞": {
+        "id": 23,
+        "character_name": "柏崎栞",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/6/65/njpmop2c4mz199x2zs5470lfovmrm28.jpg",
+        "illustration_path": "23.jpg"
+    },
+    "三角千歌": {
+        "id": 24,
+        "character_name": "三角千歌",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/d/d8/kevc31z2amxntf9m6xve35xfha9x3an.jpg",
+        "illustration_path": "24.jpg"
+    },
+    "远见空花": {
+        "id": 25,
+        "character_name": "远见空花",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/4/41/24iwvvf8qccyf2es58gb0yqmveestys.jpg",
+        "illustration_path": "25.jpg"
+    },
+    "宫坂珠希": {
+        "id": 26,
+        "character_name": "宫坂珠希",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/5/51/px3xjkgfnep2jr9w475uxc45tetk6of.jpg",
+        "illustration_path": "26.jpg"
+    },
+    "大神美冬": {
+        "id": 27,
+        "character_name": "大神美冬",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/2/2e/gt59ymeu1a2ozv7hpnay06ixjlc6ej0.jpg",
+        "illustration_path": "27.jpg"
+    },
+    "宵浜深月": {
+        "id": 28,
+        "character_name": "宵浜深月",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/2/22/97af5r91htmmzs0bhkpydml7rsg3aph.jpg",
+        "illustration_path": "28.jpg"
+    },
+    "春咲日和莉": {
+        "id": 29,
+        "character_name": "春咲日和莉",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/7/73/3ao3su17hqndf0x35jvib5hz6ewu0bl.jpg",
+        "illustration_path": "29.jpg"
+    },
+    "草野优衣": {
+        "id": 30,
+        "character_name": "草野优衣",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/1/18/dnaohu2jy1fkrnenz7vwsq556500d9n.jpg",
+        "illustration_path": "30.jpg"
+    },
+    "士条怜": {
+        "id": 31,
+        "character_name": "士条怜",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/6/65/1cj50vwshqm4r4o4r6mn9gjobty8ts1.jpg",
+        "illustration_path": "31.jpg"
+    },
+    "未奏希": {
+        "id": 32,
+        "character_name": "未奏希",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/b/bf/96hv2b1xswt9fgr69fppgqur3u1slw3.jpg",
+        "illustration_path": "32.jpg"
+    },
+    "栗林胡桃": {
+        "id": 33,
+        "character_name": "栗林胡桃",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/b/b2/fk4jbphtdn3hzo5j23j5alcx86r6x40.jpg",
+        "illustration_path": "33.jpg"
+    },
+    "风宫依里": {
+        "id": 34,
+        "character_name": "风宫依里",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/5/5f/ra516bnvfpob7lohni29rn2bhd48anu.jpg",
+        "illustration_path": "34.jpg"
+    },
+    "天野铃莓": {
+        "id": 35,
+        "character_name": "天野铃莓",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/c/c0/cq82wyrkk3p8jkuiqhkd246v1hdkl0l.jpg",
+        "illustration_path": "35.jpg"
+    },
+    "绫濑由加莉": {
+        "id": 36,
+        "character_name": "绫濑由加莉",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/0/0a/27wfr63y8lin35zhe13e7w77ymzpuyc.jpg",
+        "illustration_path": "36.jpg"
+    },
+    "双叶碧": {
+        "id": 37,
+        "character_name": "双叶碧",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/a/ab/idodefhcy6fmiu5rsvay63w0zsasf7h.jpg",
+        "illustration_path": "37.jpg"
+    },
+    "玉泉美咲": {
+        "id": 38,
+        "character_name": "玉泉美咲",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/2/2e/n4wq1qm4tm70no9r6cdhtgbgsv58m0r.jpg",
+        "illustration_path": "38.jpg"
+    },
+    "莉玛": {
+        "id": 39,
+        "character_name": "莉玛",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/2/22/ltfu2iwstd1r4cbxgmv63fb8gvgogt2.jpg",
+        "illustration_path": "39.jpg"
+    },
+    "佩可莉姆": {
+        "id": 40,
+        "character_name": "佩可莉姆",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/f/f9/oyxvnk3rf8cn1g7f8vmfe2ofzsbwx4n.jpg",
+        "illustration_path": "40.jpg"
+    },
+    "可可萝": {
+        "id": 41,
+        "character_name": "可可萝",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/3/36/l4fw2e4jmzo83e8yw3o07fuo98ak402.jpg",
+        "illustration_path": "41.jpg"
+    },
+    "凯露": {
+        "id": 42,
+        "character_name": "凯露",
+        "illustration_url": "https://patchwiki.biligame.com/images/pcr/4/4f/jh8ppg6i01t96h7twypy9vqzwrzrd33.jpg",
+        "illustration_path": "42.jpg"
+    }
+}

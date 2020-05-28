@@ -85,594 +85,598 @@
     },
     {
         "id": 21,
-        "equipment_name": "翠绿灵衣"
+        "equipment_name": "女王盾"
     },
     {
         "id": 22,
-        "equipment_name": "圣者长袍"
+        "equipment_name": "翠绿灵衣"
     },
     {
         "id": 23,
-        "equipment_name": "大魔导师长袍"
+        "equipment_name": "圣者长袍"
     },
     {
         "id": 24,
-        "equipment_name": "暗黑曜袍"
+        "equipment_name": "大魔导师长袍"
     },
     {
         "id": 25,
-        "equipment_name": "苍天长袍"
+        "equipment_name": "暗黑曜袍"
     },
     {
         "id": 26,
-        "equipment_name": "隐者服饰"
+        "equipment_name": "苍天长袍"
     },
     {
         "id": 27,
-        "equipment_name": "月下法衣"
+        "equipment_name": "隐者服饰"
     },
     {
         "id": 28,
-        "equipment_name": "龙威盔甲"
+        "equipment_name": "月下法衣"
     },
     {
         "id": 29,
-        "equipment_name": "紫罗兰盔甲"
+        "equipment_name": "龙威盔甲"
     },
     {
         "id": 30,
-        "equipment_name": "朱红铠甲"
+        "equipment_name": "紫罗兰盔甲"
     },
     {
         "id": 31,
-        "equipment_name": "天使护甲"
+        "equipment_name": "朱红铠甲"
     },
     {
         "id": 32,
-        "equipment_name": "绯红铠甲"
+        "equipment_name": "天使护甲"
     },
     {
         "id": 33,
-        "equipment_name": "十字军板甲"
+        "equipment_name": "绯红铠甲"
     },
     {
         "id": 34,
-        "equipment_name": "秘银铠甲"
+        "equipment_name": "十字军板甲"
     },
     {
         "id": 35,
-        "equipment_name": "隐身战裙"
+        "equipment_name": "秘银铠甲"
     },
     {
         "id": 36,
-        "equipment_name": "不死鸟之杖"
+        "equipment_name": "隐身战裙"
     },
     {
         "id": 37,
-        "equipment_name": "生命法杖"
+        "equipment_name": "不死鸟之杖"
     },
     {
         "id": 38,
-        "equipment_name": "月华法杖"
+        "equipment_name": "生命法杖"
     },
     {
         "id": 39,
-        "equipment_name": "大恶魔法杖"
+        "equipment_name": "月华法杖"
     },
     {
         "id": 40,
-        "equipment_name": "司法之神的锡杖"
+        "equipment_name": "大恶魔法杖"
     },
     {
         "id": 41,
-        "equipment_name": "太阳法杖"
+        "equipment_name": "司法之神的锡杖"
     },
     {
         "id": 42,
-        "equipment_name": "愤怒法杖"
+        "equipment_name": "太阳法杖"
     },
     {
         "id": 43,
-        "equipment_name": "水晶破坏者"
+        "equipment_name": "愤怒法杖"
     },
     {
         "id": 44,
-        "equipment_name": "战女王之烈斧"
+        "equipment_name": "水晶破坏者"
     },
     {
         "id": 45,
-        "equipment_name": "地狱火之斧"
+        "equipment_name": "战女王之烈斧"
     },
     {
         "id": 46,
-        "equipment_name": "紫龙斧"
+        "equipment_name": "地狱火之斧"
     },
     {
         "id": 47,
-        "equipment_name": "盖亚战斧"
+        "equipment_name": "紫龙斧"
     },
     {
         "id": 48,
-        "equipment_name": "暴风权杖"
+        "equipment_name": "盖亚战斧"
     },
     {
         "id": 49,
-        "equipment_name": "女王之矛"
+        "equipment_name": "暴风权杖"
     },
     {
         "id": 50,
-        "equipment_name": "绯龙矛"
+        "equipment_name": "女王之矛"
     },
     {
         "id": 51,
-        "equipment_name": "精灵树之弓"
+        "equipment_name": "绯龙矛"
     },
     {
         "id": 52,
-        "equipment_name": "月亮女神之弓"
+        "equipment_name": "精灵树之弓"
     },
     {
         "id": 53,
-        "equipment_name": "天使弓"
+        "equipment_name": "月亮女神之弓"
     },
     {
         "id": 54,
-        "equipment_name": "雷光弓"
+        "equipment_name": "天使弓"
     },
     {
         "id": 55,
-        "equipment_name": "苍雷拳"
+        "equipment_name": "雷光弓"
     },
     {
         "id": 56,
-        "equipment_name": "暴雪之爪"
+        "equipment_name": "苍雷拳"
     },
     {
         "id": 57,
-        "equipment_name": "狮子王的护臂"
+        "equipment_name": "暴雪之爪"
     },
     {
         "id": 58,
-        "equipment_name": "火焰护臂"
+        "equipment_name": "狮子王的护臂"
     },
     {
         "id": 59,
-        "equipment_name": "独角兽匕首"
+        "equipment_name": "火焰护臂"
     },
     {
         "id": 60,
-        "equipment_name": "暗黑物质短剑"
+        "equipment_name": "独角兽匕首"
     },
     {
         "id": 61,
-        "equipment_name": "公主短剑"
+        "equipment_name": "暗黑物质短剑"
     },
     {
         "id": 62,
-        "equipment_name": "珍贵匕首"
+        "equipment_name": "公主短剑"
     },
     {
         "id": 63,
-        "equipment_name": "凤凰刀"
+        "equipment_name": "珍贵匕首"
     },
     {
         "id": 64,
-        "equipment_name": "鹰神之煌剑"
+        "equipment_name": "凤凰刀"
     },
     {
         "id": 65,
-        "equipment_name": "光辉剑"
+        "equipment_name": "鹰神之煌剑"
     },
     {
         "id": 66,
-        "equipment_name": "妖蝶之刀"
+        "equipment_name": "光辉剑"
     },
     {
         "id": 67,
-        "equipment_name": "混沌之剑"
+        "equipment_name": "妖蝶之刀"
     },
     {
         "id": 68,
-        "equipment_name": "冰之大剑"
+        "equipment_name": "混沌之剑"
     },
     {
         "id": 69,
-        "equipment_name": "太阳剑"
+        "equipment_name": "冰之大剑"
     },
     {
         "id": 70,
-        "equipment_name": "天使剑"
+        "equipment_name": "太阳剑"
     },
     {
         "id": 71,
-        "equipment_name": "月桂树的哀伤"
+        "equipment_name": "天使剑"
     },
     {
         "id": 72,
-        "equipment_name": "魔法使眼镜"
+        "equipment_name": "月桂树的哀伤"
     },
     {
         "id": 73,
-        "equipment_name": "珍珠耳环"
+        "equipment_name": "魔法使眼镜"
     },
     {
         "id": 74,
-        "equipment_name": "绿松石耳环"
+        "equipment_name": "珍珠耳环"
     },
     {
         "id": 75,
-        "equipment_name": "狮子王的守护"
+        "equipment_name": "绿松石耳环"
     },
     {
         "id": 76,
-        "equipment_name": "八芒星坠饰"
+        "equipment_name": "狮子王的守护"
     },
     {
         "id": 77,
-        "equipment_name": "绿宝石耳环"
+        "equipment_name": "八芒星项链"
     },
     {
         "id": 78,
-        "equipment_name": "绯红钻石"
+        "equipment_name": "绿宝石耳环"
     },
     {
         "id": 79,
-        "equipment_name": "狮鹫之羽饰"
+        "equipment_name": "绯红钻石"
     },
     {
         "id": 80,
-        "equipment_name": "蛋白石耳环"
+        "equipment_name": "狮鹫之羽饰"
     },
     {
         "id": 81,
-        "equipment_name": "女巫帽"
+        "equipment_name": "蛋白石耳环"
     },
     {
         "id": 82,
-        "equipment_name": "女巫发箍"
+        "equipment_name": "女巫帽"
     },
     {
         "id": 83,
-        "equipment_name": "黑龙头盔"
+        "equipment_name": "女巫发箍"
     },
     {
         "id": 84,
-        "equipment_name": "女巫宫廷靴"
+        "equipment_name": "黑龙盔"
     },
     {
         "id": 85,
-        "equipment_name": "击剑之靴"
+        "equipment_name": "女巫宫廷靴"
     },
     {
         "id": 86,
-        "equipment_name": "忍者鞋"
+        "equipment_name": "击剑之靴"
     },
     {
         "id": 87,
-        "equipment_name": "石榴石之盾"
+        "equipment_name": "忍者鞋"
     },
     {
         "id": 88,
-        "equipment_name": "哲学家长袍"
+        "equipment_name": "石榴石之盾"
     },
     {
         "id": 89,
-        "equipment_name": "丘比特长袍"
+        "equipment_name": "哲学家长袍"
     },
     {
         "id": 90,
-        "equipment_name": "秩序法衣"
+        "equipment_name": "丘比特长袍"
     },
     {
         "id": 91,
-        "equipment_name": "宫廷服饰"
+        "equipment_name": "秩序法衣"
     },
     {
         "id": 92,
-        "equipment_name": "千层服"
+        "equipment_name": "宫廷服饰"
     },
     {
         "id": 93,
-        "equipment_name": "华丽盔甲"
+        "equipment_name": "千层服"
     },
     {
         "id": 94,
-        "equipment_name": "重金属护甲"
+        "equipment_name": "华丽盔甲"
     },
     {
         "id": 95,
-        "equipment_name": "战阵铠衣"
+        "equipment_name": "重金属护甲"
     },
     {
         "id": 96,
-        "equipment_name": "时尚盔甲"
+        "equipment_name": "战阵铠衣"
     },
     {
         "id": 97,
-        "equipment_name": "花蕾之杖"
+        "equipment_name": "时尚盔甲"
     },
     {
         "id": 98,
-        "equipment_name": "天球护身法杖"
+        "equipment_name": "花蕾之杖"
     },
     {
         "id": 99,
-        "equipment_name": "恶魔之角"
+        "equipment_name": "天球护身法杖"
     },
     {
         "id": 100,
-        "equipment_name": "赤血法杖"
+        "equipment_name": "恶魔之角"
     },
     {
         "id": 101,
-        "equipment_name": "闪电之斧"
+        "equipment_name": "赤血法杖"
     },
     {
         "id": 102,
-        "equipment_name": "丽花战斧"
+        "equipment_name": "闪电之斧"
     },
     {
         "id": 103,
-        "equipment_name": "天球斧"
+        "equipment_name": "丽花战斧"
     },
     {
         "id": 104,
-        "equipment_name": "绝对之矛"
+        "equipment_name": "天球斧"
     },
     {
         "id": 105,
-        "equipment_name": "骑士的骄傲"
+        "equipment_name": "绝对之矛"
     },
     {
         "id": 106,
-        "equipment_name": "恶魔之弓"
+        "equipment_name": "骑士的骄傲"
     },
     {
         "id": 107,
-        "equipment_name": "丘比特之弓"
+        "equipment_name": "恶魔之弓"
     },
     {
         "id": 108,
-        "equipment_name": "龙牙之爪"
+        "equipment_name": "丘比特之弓"
     },
     {
         "id": 109,
-        "equipment_name": "吸血鬼匕首"
+        "equipment_name": "龙牙之爪"
     },
     {
         "id": 110,
-        "equipment_name": "铂金小刀"
+        "equipment_name": "吸血鬼匕首"
     },
     {
         "id": 111,
-        "equipment_name": "雷神刀"
+        "equipment_name": "铂金小刀"
     },
     {
         "id": 112,
-        "equipment_name": "月光刀"
+        "equipment_name": "雷神刀"
     },
     {
         "id": 113,
-        "equipment_name": "羽刃之剑"
+        "equipment_name": "月光刀"
     },
     {
         "id": 114,
-        "equipment_name": "龙纹剑"
+        "equipment_name": "羽刃之剑"
     },
     {
         "id": 115,
-        "equipment_name": "闪耀之剑"
+        "equipment_name": "龙纹剑"
     },
     {
         "id": 116,
-        "equipment_name": "圆纹手镯"
+        "equipment_name": "闪耀之剑"
     },
     {
         "id": 117,
-        "equipment_name": "魔法单眼镜"
+        "equipment_name": "圆纹手镯"
     },
     {
         "id": 118,
-        "equipment_name": "智慧宝珠"
+        "equipment_name": "魔法单眼镜"
     },
     {
         "id": 119,
-        "equipment_name": "魔法眼镜"
+        "equipment_name": "智慧宝珠"
     },
     {
         "id": 120,
-        "equipment_name": "胜利的编织手镯"
+        "equipment_name": "魔法眼镜"
     },
     {
         "id": 121,
-        "equipment_name": "仁爱宝珠"
+        "equipment_name": "胜利的编织手镯"
     },
     {
         "id": 122,
-        "equipment_name": "尖刺手镯"
+        "equipment_name": "仁爱宝珠"
     },
     {
         "id": 123,
-        "equipment_name": "勇气宝珠"
+        "equipment_name": "尖刺手镯"
     },
     {
         "id": 124,
-        "equipment_name": "修女兜帽"
+        "equipment_name": "勇气宝珠"
     },
     {
         "id": 125,
-        "equipment_name": "罗马军团盔"
+        "equipment_name": "修女兜帽"
     },
     {
         "id": 126,
-        "equipment_name": "可爱报童帽"
+        "equipment_name": "罗马军团盔"
     },
     {
         "id": 127,
-        "equipment_name": "女巫靴"
+        "equipment_name": "可爱报童帽"
     },
     {
         "id": 128,
-        "equipment_name": "狩猎靴"
+        "equipment_name": "女巫靴"
     },
     {
         "id": 129,
-        "equipment_name": "小丑靴"
+        "equipment_name": "狩猎靴"
     },
     {
         "id": 130,
-        "equipment_name": "塔盾"
+        "equipment_name": "小丑靴"
     },
     {
         "id": 131,
-        "equipment_name": "北国长袍"
+        "equipment_name": "塔盾"
     },
     {
         "id": 132,
-        "equipment_name": "春日长袍"
+        "equipment_name": "北国长袍"
     },
     {
         "id": 133,
-        "equipment_name": "忍者装扮"
+        "equipment_name": "春日长袍"
     },
     {
         "id": 134,
-        "equipment_name": "民俗服饰"
+        "equipment_name": "忍者装扮"
     },
     {
         "id": 135,
-        "equipment_name": "精钢铠甲"
+        "equipment_name": "民俗服饰"
     },
     {
         "id": 136,
-        "equipment_name": "鳞甲"
+        "equipment_name": "精钢铠甲"
     },
     {
         "id": 137,
-        "equipment_name": "轻板甲"
+        "equipment_name": "鳞甲"
     },
     {
         "id": 138,
-        "equipment_name": "智慧之服"
+        "equipment_name": "轻板甲"
     },
     {
         "id": 139,
-        "equipment_name": "独角兽的慈爱"
+        "equipment_name": "智慧之服"
     },
     {
         "id": 140,
-        "equipment_name": "恢复之杖"
+        "equipment_name": "独角兽的慈爱"
     },
     {
         "id": 141,
-        "equipment_name": "雏龙之杖"
+        "equipment_name": "恢复之杖"
     },
     {
         "id": 142,
-        "equipment_name": "绿意之杖"
+        "equipment_name": "雏龙之杖"
     },
     {
         "id": 143,
-        "equipment_name": "高级金属斧"
+        "equipment_name": "绿意之杖"
     },
     {
         "id": 144,
-        "equipment_name": "金属斧"
+        "equipment_name": "高级金属斧"
     },
     {
         "id": 145,
-        "equipment_name": "火焰枪"
+        "equipment_name": "金属斧"
     },
     {
         "id": 146,
-        "equipment_name": "三叉戟"
+        "equipment_name": "火焰枪"
     },
     {
         "id": 147,
-        "equipment_name": "水晶弓"
+        "equipment_name": "三叉戟"
     },
     {
         "id": 148,
-        "equipment_name": "皮革手套"
+        "equipment_name": "水晶弓"
     },
     {
         "id": 149,
-        "equipment_name": "指挥匕首"
+        "equipment_name": "皮革手套"
     },
     {
         "id": 150,
-        "equipment_name": "月牙刀"
+        "equipment_name": "指挥匕首"
     },
     {
         "id": 151,
-        "equipment_name": "极光剑"
+        "equipment_name": "月牙刀"
     },
     {
         "id": 152,
-        "equipment_name": "蓝血剑"
+        "equipment_name": "极光剑"
     },
     {
         "id": 153,
-        "equipment_name": "齿轮剑"
+        "equipment_name": "蓝血剑"
     },
     {
         "id": 154,
-        "equipment_name": "助威手镯"
+        "equipment_name": "齿轮剑"
     },
     {
         "id": 155,
-        "equipment_name": "守护项链"
+        "equipment_name": "助威手镯"
     },
     {
         "id": 156,
-        "equipment_name": "活力手镯"
+        "equipment_name": "守护项链"
     },
     {
         "id": 157,
-        "equipment_name": "时尚贝雷帽"
+        "equipment_name": "活力手镯"
     },
     {
         "id": 158,
-        "equipment_name": "皮革鞋"
+        "equipment_name": "时尚贝雷帽"
     },
     {
         "id": 159,
-        "equipment_name": "木盾"
+        "equipment_name": "皮革鞋"
     },
     {
         "id": 160,
-        "equipment_name": "旅行长袍"
+        "equipment_name": "木盾"
     },
     {
         "id": 161,
-        "equipment_name": "皮革工作服"
+        "equipment_name": "旅行长袍"
     },
     {
         "id": 162,
-        "equipment_name": "香木法杖"
+        "equipment_name": "皮革工作服"
     },
     {
         "id": 163,
-        "equipment_name": "单手斧"
+        "equipment_name": "香木法杖"
     },
     {
         "id": 164,
-        "equipment_name": "钢矛"
+        "equipment_name": "单手斧"
     },
     {
         "id": 165,
-        "equipment_name": "猎人弓"
+        "equipment_name": "钢矛"
     },
     {
         "id": 166,
-        "equipment_name": "木制拳套"
+        "equipment_name": "猎人弓"
     },
     {
         "id": 167,
-        "equipment_name": "杀手铅笔"
+        "equipment_name": "木制拳套"
     },
     {
         "id": 168,
+        "equipment_name": "杀手铅笔"
+    },
+    {
+        "id": 169,
         "equipment_name": "铁剑"
     }
 ]
